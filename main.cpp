@@ -1,3 +1,8 @@
+// Digital Attendance System
+// EEE227 - Introduction to C++ Programming
+// HND Electrical/Electronics Engineering - Level 200
+// Complete 4-Week Project - February 2026
+
 #include <iostream>
 #include <vector>
 #include <string>
